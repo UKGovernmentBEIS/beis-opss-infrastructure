@@ -1,4 +1,6 @@
-# Other infrastructure
+# Infrastucture
+
+Used by [cosmetics](https://github.com/UKGovernmentBEIS/beis-opss) and [Product Safety Database (psd)](https://github.com/UKGovernmentBEIS/beis-opss-psd). Provides extra dependencies for managing infrastructure. Currently everything is deployed so in normal circumstances, this repo won't have much use, but it is still essencial to familiarize yourself with README to understand how infrastructure is done and managed.
 
 ## Environment variables
 
